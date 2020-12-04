@@ -1,7 +1,4 @@
 @tailwind base;
 @tailwind components;
 
-.btn{
-    /* @apply  */
-}
 @tailwind utilities;
